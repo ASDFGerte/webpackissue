@@ -1,0 +1,11 @@
+{
+  "name": "@asdfgerte/webpack-require-bug-reproduction",
+  "version": "1.0.0",
+  "description": "Reproduce a bug with webpack and mini-css-extract-plugin",
+  "author": "ASDFGerte",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspace-a"
+  ]
+}

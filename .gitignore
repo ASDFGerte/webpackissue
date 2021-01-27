@@ -1,0 +1,8 @@
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+workspace-a/dist
+workspace-a/.webpackcache
